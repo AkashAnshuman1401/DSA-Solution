@@ -10,13 +10,13 @@
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
 | Arrays | 2 | 0 | 0 | 0 | 2
-| Linked Lists | 0 | 0 | 0 | 0 |
-| Trees | 0 | 0 | 0 | 0 |
+| Linked Lists | 1 | 0 | 0 | 0 | 1
+| Trees | 1 | 0 | 0 | 0 | 1
 | Graphs | 0 | 0 | 0 | 0 |
-| Dynamic Programming | 0 | 0 | 0 | 0 |
-| Strings | 0 | 0 | 0 | 0 |
+| Dynamic Programming | 1 | 0 | 0 | 0 | 1
+| Strings | 1 | 0 | 0 | 0 | 1
 | Sorting & Searching | 0 | 0 | 0 | 0 |
-| **Total** | **2** | **0** | **0** | **0** |
+| **Total** | **6** | **0** | **0** | **0** |
 
 ---
 
