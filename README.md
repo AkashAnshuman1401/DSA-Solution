@@ -9,14 +9,14 @@
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| Arrays | 2 | 0 | 0 | 2 |
-| Linked Lists | 1 | 0 | 0 | 1 |
+| Arrays | 5 | 0 | 0 | 5 |
+| Linked Lists | 3 | 0 | 0 | 3 |
 | Trees | 1 | 0 | 0 | 0 | 1 |
 | Graphs | 0 | 0 | 0 | 0 |
 | Dynamic Programming | 1 | 0 | 0 | 1 |
 | Strings | 1 | 0 | 0 | 1 |
 | Sorting & Searching | 0 | 0 | 0 | 0 |
-| **Total** | **6** | **0** | **0** | **6** |
+| **Total** | **11** | **0** | **0** | **11** |
 
 ---
 
@@ -51,6 +51,7 @@ dsa-solutions/
 |---|---------|------------|----------|------|-------|
 | 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Java] | O(n) | O(1) |
 | 2 | [Merge Two Sorted Lists]( https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Java] | O(n+m) | O(1) |
+| 3 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Java] | O(n) | O(1) |
 
 ### Trees
 | # | Problem | Difficulty | Solution | Time | Space |
