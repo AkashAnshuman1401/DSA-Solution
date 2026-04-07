@@ -9,14 +9,14 @@
 
 | Topic | Easy | Medium | Hard | Total |
 |-------|------|--------|------|-------|
-| Arrays | 5 | 0 | 0 | 5 |
+| Arrays | 9 | 0 | 0 | 9 |
 | Linked Lists | 3 | 0 | 0 | 3 |
 | Trees | 1 | 0 | 0 | 0 | 1 |
 | Graphs | 0 | 0 | 0 | 0 |
 | Dynamic Programming | 1 | 0 | 0 | 1 |
 | Strings | 1 | 0 | 0 | 1 |
 | Sorting & Searching | 0 | 0 | 0 | 0 |
-| **Total** | **11** | **0** | **0** | **11** |
+| **Total** | **15** | **0** | **0** | **15** |
 
 ---
 
@@ -45,6 +45,10 @@ dsa-solutions/
 | 3 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Java] | O(log n) | O(1) |
 | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Java] | O(n) | O(n) |
 | 5 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Java] | O(n) | O(1) |
+| 6 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Java] | O(n) | O(1) |
+| 7 | [Count Vowels in a String]( https://leetcode.com/problems/count-vowels-permutation/) | Easy | [Java] | O(n) | O(1) |
+| 8 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Java] | O(n) | O(1) |
+| 9 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [Java] | O(n) | O(1) |
 
 ### Linked Lists
 | # | Problem | Difficulty | Solution | Time | Space |
